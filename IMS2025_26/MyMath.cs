@@ -8,7 +8,7 @@ namespace IMS2025_26
 {
     internal class MyMath
     {
-        static internal int Add(int a, int b)
+        static internal int Main(int a, int b)
         {
             return a + b;
         }
